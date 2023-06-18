@@ -20,7 +20,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(60deg,#000, #054c4c);
+  background: linear-gradient(60deg,#000, #FA5F5540);
   font-family: "PeydaWeb"; 
 }
 
@@ -30,7 +30,7 @@
 
 .header {
   text-align: center;
-    color: #0db0b0;
+    color: #FA5F55;
 }
 
 .header p {
@@ -49,22 +49,22 @@
   box-sizing: border-box;
 }
 .footer:hover {
-  background: linear-gradient(10deg,#0db0b010,#0db0b030);
+  background: linear-gradient(10deg,#FA5F5510,#FA5F5540);
   cursor:pointer;
-  border: 0px solid #0db0b099;
+  border: 0px solid #FA5F55;
 }
 
 .code {
   padding: 5px;
   color: greenyellow;
-  color: #0db0b0;
-  border: 1px solid  #0db0b0;
-  background: linear-gradient(60deg,#000, #054c4c);
+  color: #FA5F55;
+  border: 1px solid  #FA5F55;
+  background: linear-gradient(60deg,#000, #FA5F5540);
   border-radius: 5px;
 }
 
 .codeContainer{
-color: #0db0b0;
+color: #FA5F55;
 font-family: "PeydaWebExtraLight";
 
 }
@@ -112,9 +112,9 @@ button {
 
 button:hover {
   color: black;
-  color: #0db0b0;
+  color: #FA5F55;
   
-  border: 2px solid #0db0b0;
+  border: 2px solid #FA5F55;
   
 }
  

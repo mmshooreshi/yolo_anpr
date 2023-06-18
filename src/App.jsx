@@ -73,7 +73,7 @@ const App = () => {
     <div className="App">
       {loading.loading && <Loader> {(loading.progress * 100).toFixed(2).toPersianDigits()}% در حال بارگیری مدل</Loader>}
       <div className="header">
-        <h1>📷 تشخیص و شمارش اشیاء</h1>
+        <h1>تشخیص پلاک خودرو</h1>
         <p>
           
         </p>
