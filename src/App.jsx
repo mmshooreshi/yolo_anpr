@@ -33,7 +33,7 @@ const App = () => {
   // model configs
   // const modelName = "yolov8n";
   // const [modelName, setmodelName] = useState("yolov8n");
-  const [modelName, setmodelName] = useState("yolov8n-seg");
+  const [modelName, setmodelName] = useState("best");
   const toggleModel = () => {
     console.log(modelName);
     // 👇️ passed function to setState
